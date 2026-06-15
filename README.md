@@ -236,22 +236,4 @@ See the `assets/` directory for official screenshots:
 
 > **Note:** Please add these screenshots to the `assets/` folder before pushing to GitHub. The screenshots serve as verifiable evidence of the claimed ranking.
 
----
 
-## 📝 Citation
-
-If you find this work useful, please cite:
-
-```bibtex
-@misc{animalclef2026-scnudt,
-  author       = {SCNU-DT (yejianrui)},
-  title        = {AnimalCLEF 2026 — Dual-Model Fusion with Dataset-Specific Preprocessing},
-  year         = {2026},
-  howpublished = {\url{https://github.com/YOUR_USERNAME/animalclef-2026}},
-  note         = {Rank 44/230 (top 19.1\%), Overall Score 0.33717}
-}
-```
-
-## 📄 License
-
-MIT License
