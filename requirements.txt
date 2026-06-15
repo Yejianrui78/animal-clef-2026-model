@@ -1,0 +1,26 @@
+# ============================================================
+# AnimalCLEF 2026 — Improved Solution v2
+# ============================================================
+# 核心依赖
+numpy>=1.24.0
+pandas>=2.0.0
+torch>=2.0.0
+torchvision>=0.15.0
+timm>=0.9.0
+Pillow>=10.0.0
+opencv-python>=4.8.0
+transformers>=4.30.0
+scikit-learn>=1.3.0
+
+# 聚类（可选 HDBSCAN，推荐安装）
+hdbscan>=0.8.0
+
+# Wildlife 生态（特征提取 + 数据加载 + 训练）
+wildlife-datasets>=1.0.0
+wildlife-tools>=1.0.0
+
+# 可选：YOLO 动物框裁剪（Ultralytics 后端）
+# ultralytics>=8.0.0
+
+# 可选：SAM 分割精修
+# git+https://github.com/ChaoningZhang/MobileSAM.git
