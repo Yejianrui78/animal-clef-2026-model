@@ -1,4 +1,4 @@
-# AnimalCLEF 2026 — Improved Solution v2
+# AnimalCLEF 2026 — Improved Solution
 
 > **Team:** SCNU-DT &nbsp;|&nbsp; **Account:** yejianrui &nbsp;|&nbsp; **Platform:** [Kaggle](https://www.kaggle.com/)  
 > **Final Rank:** 44 / 230 (top 19.1%) &nbsp;|&nbsp; **Overall Score:** 0.33717
