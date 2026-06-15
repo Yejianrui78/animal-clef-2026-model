@@ -98,9 +98,6 @@ All views are individually L2-normalized before mean-pooling, followed by a fina
 After extensive comparison on the training splits, **Agglomerative Clustering** (average linkage, cosine distance) consistently outperforms DBSCAN and HDBSCAN across all datasets.
 
 **Key innovation — n_clusters cap:** The standard `distance_threshold` mode can produce excessive singleton clusters. We introduce an automatic upper bound:
-
-$$\text{max\_clusters} = \max(5, \; \lfloor n_{\text{samples}} \times 0.5 \rfloor)$$
-
 When `distance_threshold` produces more clusters than the cap, the algorithm falls back to `n_clusters` mode with k = max_clusters, enforcing more aggressive merging.
 
 **Parameter selection:**
