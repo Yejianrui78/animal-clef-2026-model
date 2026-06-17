@@ -19,8 +19,5 @@ hdbscan>=0.8.0
 wildlife-datasets>=1.0.0
 wildlife-tools>=1.0.0
 
-# 可选：YOLO 动物框裁剪（Ultralytics 后端）
-# ultralytics>=8.0.0
 
-# 可选：SAM 分割精修
-# git+https://github.com/ChaoningZhang/MobileSAM.git
+
