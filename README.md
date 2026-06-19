@@ -1,6 +1,6 @@
 # AnimalCLEF 2026 — Improved Solution
 
-> **Team:** SCNU-DT &nbsp;|&nbsp; **Account:** yejianrui &nbsp;|&nbsp; **Platform:** [Kaggle](https://www.kaggle.com/)  
+> **Team:** SCNU-DT &nbsp;|&nbsp; **Account:** yejianrui lzp656 &nbsp;|&nbsp; **Platform:** [Kaggle](https://www.kaggle.com/)  
 > **Final Rank:** 44 / 230 (top 19.1%) &nbsp;|&nbsp; **Overall Score:** 0.33717
 
 ---
@@ -224,16 +224,5 @@ Key findings from our experiments:
 
 ---
 
-## 🔍 Verification
-
-See the `assets/` directory for official screenshots:
-
-| Screenshot | Content |
-|---|---|
-| `assets/leaderboard.png` | Kaggle leaderboard showing rank **44/230** with score **0.33717** |
-| `assets/account.png` | Kaggle account page showing username **yejianrui**, team **SCNU-DT** |
-| `assets/scores.png` | Per-dataset score breakdown (ARI values) |
-
-> **Note:** Please add these screenshots to the `assets/` folder before pushing to GitHub. The screenshots serve as verifiable evidence of the claimed ranking.
 
 
